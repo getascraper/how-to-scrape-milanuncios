@@ -1,0 +1,38 @@
+# llms.txt for how-to-scrape-milanuncios
+
+## Project Overview
+
+Milanuncios scraper and Spanish classifieds data extraction API. Extract cars, property, phones, and second-hand listings with EUR prices, images, and seller profiles from milanuncios.com with this Apify Actor. Playwright browser automation with ES residential proxies. Free tier included.
+
+## Repository
+
+- GitHub: https://github.com/getascraper/how-to-scrape-milanuncios
+- Apify Actor: https://apify.com/getascraper/milanuncios-scraper
+
+## Key Features
+
+- Extract cars, property, phones, second-hand listings
+- EUR price normalization and raw price strings
+- Car attributes: year, mileage, fuel, transmission, hp, warranty
+- Seller profiles: type (private/professional), name, location
+- Location: city, province, region
+- Images array
+
+## Output Format
+
+JSON with fields: id, url, title, description, postedDate, scrapedAt, price, priceRaw, previousPrice, currency, city, province, region, address, sellerType, sellerName, year, mileage, fuel, transmission, hp, warranty, images
+
+## Technology Stack
+
+- TypeScript
+- Playwright (browser automation)
+- ES residential proxies
+- ESM modules
+
+## Usage
+
+Requires Apify account and API token. Run via Apify Console or API.
+
+## Support
+
+Open an issue at https://github.com/getascraper/how-to-scrape-milanuncios/issues
