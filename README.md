@@ -12,6 +12,8 @@
 
 **Price: $4.99 per 1,000 results**
 
+![Milanuncios Scraper Apify Actor hero screenshot](docs/hero-screenshot.png)
+
 ## What does Milanuncios Scraper do?
 
 The **Milanuncios Scraper** pulls live, structured listings from **Milanuncios** (milanuncios.com), Spain's largest classifieds marketplace. It extracts product titles, prices, locations, car mileage attributes, and professional dealer coordinates for any keyword across Spain.
