@@ -1,4 +1,4 @@
-# Milanuncios Scraper | Spain Classifieds | Apify Actor
+<h1 align="center">Milanuncios Scraper | Spain Classifieds | Apify Actor</h1>
 
 <p align="center">
   <a href="https://apify.com/getascraper/milanuncios-scraper"><img src="https://img.shields.io/badge/apify%20actor-ready-green" alt="Apify Actor"></a>
@@ -8,11 +8,17 @@
   <a href="https://apify.com/getascraper/milanuncios-scraper"><img src="https://img.shields.io/badge/euro%20prices-EUR-orange" alt="Euro Prices"></a>
 </p>
 
-**Milanuncios scraper and Spanish classifieds data extraction API.** Extract cars, property, phones, and second-hand listings with EUR prices, images, and seller profiles from milanuncios.com with this Apify Actor. Playwright browser automation with ES residential proxies. Bypass Datadome blocks. Free tier included.
+<p align="center">
+  <strong>Milanuncios scraper and Spanish classifieds data extraction API.</strong> Extract cars, property, phones, and second-hand listings with EUR prices, images, and seller profiles from milanuncios.com with this Apify Actor. Playwright browser automation with ES residential proxies. Bypass Datadome blocks. Free tier included.
+</p>
 
-**Price: $4.99 per 1,000 results**
+<p align="center">
+  <strong>Price: $4.99 per 1,000 results</strong>
+</p>
 
-![Milanuncios Scraper Apify Actor hero screenshot](docs/hero-screenshot.png)
+<p align="center">
+  <img src="docs/hero-screenshot.png" alt="Milanuncios Scraper Apify Actor hero screenshot">
+</p>
 
 ## What does Milanuncios Scraper do?
 
